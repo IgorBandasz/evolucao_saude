@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383666456258",
+    "project_id": "evolucao-saude",
+    "storage_bucket": "evolucao-saude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383666456258:android:3256ccebf2b7d78c711d5b",
+        "android_client_info": {
+          "package_name": "com.evolucao_saude"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkg5bYes4RJlo1EIsEY2DzHXx4hO1hKkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
