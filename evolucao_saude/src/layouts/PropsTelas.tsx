@@ -7,17 +7,17 @@ type LoginProps = NativeStackScreenProps<RootStackParamList, 'TelaLogin'>;
 
 type CadUsuarioProps = NativeStackScreenProps<RootStackParamList, 'TelaCadUsuario'>;
 
-type CadNotaProps = NativeStackScreenProps<RootStackParamList, 'TelaCadNota'>;
+type CadResultadoProps = NativeStackScreenProps<RootStackParamList, 'TelaCadResultado'>;
 
-type ConNotasProps = NativeStackScreenProps<RootStackParamList, 'TelaConNotas'>;
+type ConResultadosProps = NativeStackScreenProps<RootStackParamList, 'TelaConResultados'>;
 
-type AltNotaProps = NativeStackScreenProps<RootStackParamList, 'TelaAltNota'>;
+type AltResultadoProps = NativeStackScreenProps<RootStackParamList, 'TelaAltResultado'>;
 
 export type {
   PrincipalProps,
   LoginProps,
   CadUsuarioProps,
-  CadNotaProps,
-  ConNotasProps,
-  AltNotaProps
+  CadResultadoProps,
+  ConResultadosProps,
+  AltResultadoProps
 };
